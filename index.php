@@ -1,5 +1,5 @@
 <!--
-Desenvolvido Por: mLabs
+Desenvolvido Por: 2Inbox
 -->
 <?php
 $url = "http://2-inbox.com/";
@@ -10,15 +10,7 @@ $var = array(
                   "titulo" => "O CONECTADO",
                   "image" => "http://gph.is/2uu0jIi"
                   ),
-        "2" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/1pptU1s"
-                  ),
-        "3" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/NYwUyC"
-                  ),
-        );
+             );
 
 $section = array_rand($var);
 
@@ -35,6 +27,6 @@ $section = array_rand($var);
 
 <script>
   setTimeout(function(){
-    window.location='https://www.mlabs.com.br/';
+    window.location='https://www.2inbox.com.br/';
   },100);
 </script>
