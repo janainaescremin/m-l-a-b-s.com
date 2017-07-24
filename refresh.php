@@ -1,7 +1,7 @@
 <?php
 $url = 'https://2-inbox';
 $fields = array(
-            'id'=>urlencode('http://m-l-a-b-s.com'),
+            'id'=>urlencode('https://2-inbox'),
             'scrape'=>urlencode(true),
             'access_token'=>"<476446742709141|dTgRSQtJ1TA9uquKWUL3xkaTSpA>"
         );
