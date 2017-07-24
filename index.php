@@ -2,13 +2,13 @@
 Desenvolvido Por: mLabs
 -->
 <?php
-$url = "http://m-l-a-b-s.com/";
-$title = "mLabs";
+$url = "http://2-inbox.com/";
+$title = "2INBOX";
 
 $var = array(
         "1" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/2m6xCjt"
+                  "titulo" => "O CONECTADO",
+                  "image" => "http://gph.is/2uu0jIi"
                   ),
         "2" => array(
                   "titulo" => "mLabs",
